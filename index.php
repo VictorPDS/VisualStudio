@@ -23,7 +23,7 @@ and open the template in the editor.
 <h2><a href="./seleccion.php">Selección en php</a></h2>
 <h2><a href="./ternario.php">Operador Ternario en php</a></h2>
 <h2><a href="./iteraciones.php">Iteraciones en php</a></h2>
-<h2><a href="./funciones.php">Funciones </a></h2>
+<h2><a href="./funciones.php">Hola victor</a></h2>
 </div>
 </body>
 </html>
