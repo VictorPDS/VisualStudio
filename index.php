@@ -17,7 +17,7 @@ and open the template in the editor.
 <div class="contenedor">
 <h1>Lista de programas básico de pruebas</h1>
     <hr />
-<h2><a href="./variables.php">Variables VICTOR</a></h2>
+<h2><a href="./variables.php">Añadido para commit local VSC</a></h2>
 <h2><a href="./constantes.php">Constantes en php</a></h2>
 <h2><a href="./asignacion.php">Asignación en php</a></h2>
 <h2><a href="./seleccion.php">Selección en php</a></h2>
